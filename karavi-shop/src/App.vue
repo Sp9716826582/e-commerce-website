@@ -2,7 +2,7 @@
   <div>
     <header class="header">
       <div class="header-inner">
-        <router-link to="/home" class="brand">ShopKart</router-link>
+        <router-link to="/home" class="brand">Karavi Shop</router-link>
         <div class="search-bar">
           <input
             class="input"
